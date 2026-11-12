@@ -1,4 +1,4 @@
-# 🏠 The Roommies | Backend Architecture & Technical Decisions
+# 🏠 The Roommies | Backend Architecture & Technical Decisions (under construction)
 
 A production-grade **co-living management platform**, real-time messaging, expense splitting, task management, ratings, and AI-powered house reports. Built solo as a full-stack project, deployed and serving real users.
 
